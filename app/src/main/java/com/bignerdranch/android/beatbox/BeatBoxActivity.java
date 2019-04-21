@@ -10,5 +10,5 @@ public class BeatBoxActivity extends SingleFragmentActivity {
     protected Fragment createFragment() {
         return BeatBoxFragment.newInstance();
     }
-    
+
 }
